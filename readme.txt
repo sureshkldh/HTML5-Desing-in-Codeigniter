@@ -20,7 +20,6 @@ Template Design - screencapture.png
 Developed In - Codeigniter Framework, jQuery, JavaScript Bootstrap, HTML5, CSS3, Font-Awesome Icons, 
 
 --------------------------------------------------------------------------  
-
 Github Account 
 
 https://github.com/sureshkldh/
