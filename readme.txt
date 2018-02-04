@@ -17,7 +17,7 @@ Link - https://github.com/sureshkldh/HTML5-Desing-in-Codeigniter
 
 Template Design - screencapture.png
 
-Developed In - Codeigniter Framework, Bootstrap, HTML5, CSS3, Font-Awesome Icons
+Developed In - Codeigniter Framework, jQuery, JavaScript Bootstrap, HTML5, CSS3, Font-Awesome Icons, 
 
 --------------------------------------------------------------------------  
 
